@@ -74,6 +74,7 @@ header nav a:hover{
 
     padding: 15px 30px;
     margin-right: 25px;
+    margin-left: 20px;
     font-size: 12px;
         
 
@@ -111,9 +112,17 @@ header nav a:hover{
     margin-top: 20px;
 }
 
+
 .item{
     width:250px;
 	height:250px;
 	border-radius: 100px;
+    background-color: rgb(58, 4, 4);
+    display:inline-flex;
+    cursor: pointer;
+    transition: .3s ease all;
 }
 
+.item img:hover {
+    opacity: .7;
+} 
