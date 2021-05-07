@@ -1,6 +1,6 @@
 ## Recreating NETFLIX page.
 
-<p>This repository is part of the challenge proposed by <a href="https://www.linkedin.com/school/digitalinnovation-one/">Digital Innovation One</a> and <a href="https://www.linkedin.com/in/felipe-aguiar-047/">Felipe Aguiar.</a><p>
+<p>This repository is part of the challenge presented by <a href="https://www.linkedin.com/school/digitalinnovation-one/">Digital Innovation One</a> and <a href="https://www.linkedin.com/in/felipe-aguiar-047/">Felipe Aguiar.</a><p>
 
 <p>First of all, the page design based on Netflix original page. Secondly, it was created the header, a wrapper or container to store the main film. After that, a Owl Carousel was picked and added to the project, as you can see in the image below.<p>
  <img src="img/readme.png" alt="Web page draft">For further information<a href="https://owlcarousel2.github.io/OwlCarousel2/demos/demos.html"> Owl Carousel Demos.</a>
